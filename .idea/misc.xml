@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Alura/MobileKotlin/Agenda/app/src/main/res/drawable-anydpi/ic_save.xml" value="0.156" />
+        <entry key="..\:/Alura/MobileKotlin/Agenda/app/src/main/res/drawable-v24/ic_save.xml" value="0.1785" />
+        <entry key="..\:/Alura/MobileKotlin/Agenda/app/src/main/res/layout/activity_formulario_aluno.xml" value="0.36615384615384616" />
+        <entry key="..\:/Alura/MobileKotlin/Agenda/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Alura/MobileKotlin/Agenda/app/src/main/res/layout/activity_main2.xml" value="0.371875" />
+        <entry key="..\:/Alura/MobileKotlin/Agenda/app/src/main/res/layout/item_aluno.xml" value="0.371875" />
+        <entry key="..\:/Alura/MobileKotlin/Agenda/app/src/main/res/layout/layout.xml" value="0.2296195652173913" />
+        <entry key="..\:/Alura/MobileKotlin/Agenda/app/src/main/res/menu/activity_formulario_aluno_menu.xml" value="0.371875" />
+        <entry key="..\:/Alura/MobileKotlin/Agenda/app/src/main/res/menu/menu.xml" value="0.371875" />
+        <entry key="..\:/Users/thiag/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.371875" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <pattern value="com.example.agenda.model.Aluno" method="Aluno" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
