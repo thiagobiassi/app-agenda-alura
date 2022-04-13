@@ -16,7 +16,5 @@ public class AgendaApplication extends Application {
     @SuppressWarnings("unused")
     private void criaAlunoTeste() {
         AlunoDAO dao = new AlunoDAO();
-        dao.salvar(new Aluno("Biassi", "11959659723", "thiagoh191000@gmail.com"));
-        dao.salvar(new Aluno("Thiago", "11959659723", "thiagoh191000@gmail.com"));
     }
 }
